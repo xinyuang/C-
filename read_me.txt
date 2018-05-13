@@ -20,4 +20,4 @@
       fp1(20,'=');
 
    " " is used for string
-   ' ' is used for char
+   ' ' is used for char 
